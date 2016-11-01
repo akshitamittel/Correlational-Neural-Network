@@ -9,10 +9,10 @@ Project by: Akshita Mittel (cs13b1040)
 Copy the cifar10 folder into each of the mnistExample directories in each module
 
 ###CorrNet Master:
-*MNIST basic example
-*CIFAR10 basic example:
-*CorrNet 5-layered
-*CorrNet-14
+-MNIST basic example
+-CIFAR10 basic example:
+-CorrNet 5-layered
+-CorrNet-14
 
 To create the dataset for training, run the following command, in the mnistExample directory for each module:
 ```
